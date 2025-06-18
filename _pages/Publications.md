@@ -5,6 +5,8 @@ author_profile: true
 excerpt: ""
 ---
 
+
+
 - **Wei Liu**, Zhiying Deng, Zhongyu Niu, Jun Wang, Haozhao Wang, YuanKai Zhang, Ruixuan Li. [Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise](https://arxiv.org/pdf/2410.06003). In NeurIPS 2024.
 
 **Summary**:  The most widely used criterion for
