@@ -11,9 +11,9 @@ title                    : "Wei Liu (刘伟)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https:/WeiLiu876.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jugechengzi.github.io/WeiLiu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WeiLiu876/WeiLiu876.github.io"
+repository               : "jugechengzi/WeiLiu.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wei Liu (刘伟)"
   googlescholar    : "https://scholar.google.com/citations?user=bG4dvGoAAAAJ&hl=zh-CN"
-  avatar           : "dengjizhao2.png"
-  bio              : "Postdoc @HUST"
+  avatar           : "dengjizhao.png"
+  bio              : "HUST"
   location         : "Wuhan, China"
   employer         :
   semanticscholar  : "https://www.semanticscholar.org/author/Wei-Liu/1438943526"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WeiLiu876"
+  github           : "jugechengzi"
   google_plus      :
   keybase          :
   instagram        :
