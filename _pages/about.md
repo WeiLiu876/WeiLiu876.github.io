@@ -25,6 +25,11 @@ Research
 View my [representative works](https://jugechengzi.github.io/WeiLiu.github.io//Publications/). 
 
 
+News
+====
+- I will co-organize a workshop about LLM realiability at AAAI 2026. The call for papers will come soon.
+
+
 Publications
 ====
 
