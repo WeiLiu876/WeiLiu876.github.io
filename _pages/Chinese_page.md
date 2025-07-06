@@ -9,6 +9,10 @@ excerpt: "My homepage in Chinese."
 我目前是华中科技大学的一名博士后研究员，研究方向为可信人工智能和大语言模型，合作老师为[曾志刚](http://faculty.hust.edu.cn/cengzhigang/zh_CN/index.htm)教授和[李瑞轩](http://idc.hust.edu.cn/rxli/index.html)教授。在此之前，我于2024年6月在获得华中科技大学计算机学院获得博士学位, 以及于2019年6月在华中科技大学机械学院获得学士学位。
 
 
+最新消息
+====
+我将在AAAI 2026组织一个关于可靠大模型的workshop, 欢迎各位同行交流讨论。
+
 研究方向
 ======
 - 理论：因果推理、概率图模型、信息论。  
