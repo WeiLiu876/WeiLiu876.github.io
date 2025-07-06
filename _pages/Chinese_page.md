@@ -20,7 +20,7 @@ excerpt: "My homepage in Chinese."
 ======
 
 ACM-Wuhan优秀博士论文奖（武汉市仅2人），并被推荐参评ACM-China优博（武汉市仅1人）。     
-华为天才少年计划。
+华为天才少年计划（大厂头部计划offer）。
 
  
 
