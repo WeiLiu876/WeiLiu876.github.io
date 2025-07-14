@@ -25,10 +25,8 @@ Research
 View my [representative works](https://jugechengzi.github.io/WeiLiu.github.io//Publications/). 
 
 
-News
-====
-- I am co-organising a workshop on LLM reliability at AAAI 2026. The call for papers will be released soon.
-- 1
+
+
 
 Publications
 ====
