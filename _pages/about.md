@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ====
-I am currently a postdoc at National University of Singapore, co-advised by [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) and [Wee Sun Lee](https://www.comp.nus.edu.sg/cs/people/leews/). Previously, I received my Ph.D. from Huazhong University of Science and Technology in 2024 (advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and my B.S. from HUST in 2019.
+I am currently a research fellow at National University of Singapore, co-advised by [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) and [Wee Sun Lee](https://www.comp.nus.edu.sg/cs/people/leews/). Previously, I received my Ph.D. from Huazhong University of Science and Technology in 2024 (advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and my B.S. from HUST in 2019.
 
 
 
