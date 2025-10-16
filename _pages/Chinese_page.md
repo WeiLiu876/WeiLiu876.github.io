@@ -19,7 +19,7 @@ ACM-武汉优博
 ======
 
 
-我目前是新加坡国立大学的一名博士后, 由[Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) 和[Wee Sun Lee](https://www.comp.nus.edu.sg/~leews/)联合指导。
+我目前是新加坡国立大学的一名博士后, 由[Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) (牛津&谷歌) 和[Wee Sun Lee](https://www.comp.nus.edu.sg/~leews/)联合指导。
 
 我最近的研究集中关注于大语言模型的各种问题，主要关注于模型可靠性，模型编辑，模型高效微调等。欢迎联系我合作交流。
 
