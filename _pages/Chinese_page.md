@@ -27,6 +27,14 @@ ACM-武汉优博
 学术论文
 ======
 
+- Unbiased Interest Modeling in Sequential Basket Analysis: Addressing Repetition Bias with Multi-Factor Estimation.  
+*Zhiying Deng, Jianjun Li, __Wei Liu__, Juan Zhao*  
+In TORS 2025. 
+
+- Re-fed+: A better replay strategy for federated incremental learning.  
+*Yichen Li, Haozhao Wang, Yining Qi, __Wei Liu__, Ruixuan Li*  
+In TPAMI 2025. 
+
 - Adversarial Cooperative Rationalization: The Risk of Spurious Correlations in Even Clean Datasets. [paper](https://arxiv.org/abs/2505.02118) [code](https://github.com/jugechengzi/Rationalization-A2I)    
 *__Wei Liu__, Zhongyu Niu, Lang Gao, Zhiying Deng, Jun Wang, Haozhao Wang, Ruixuan Li*  
   Conference: ICML 2025. (**CCF A**)
