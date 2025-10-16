@@ -30,8 +30,8 @@ Research
 Publications
 ====
 
-- Unbiased Interest Modeling in Sequential Basket Analysis: Addressing Repetition Bias with Multi-Factor Estimation.
-*Zhiying Deng, Jianjun Li, __Wei Liu__, Juan Zhao*
+- Unbiased Interest Modeling in Sequential Basket Analysis: Addressing Repetition Bias with Multi-Factor Estimation.  
+*Zhiying Deng, Jianjun Li, __Wei Liu__, Juan Zhao*  
 In TORS 2025. 
 
 - Re-fed+: A better replay strategy for federated incremental learning.  
