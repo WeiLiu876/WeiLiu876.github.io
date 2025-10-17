@@ -80,6 +80,11 @@ Conference: SIGIR 2023 (**CCF A**).
   Conference: [NeurIPS 2022](https://nips.cc/) (**CCF A**).
 
 
+学术活动
+====
+AAAI AIR-FM workshop共同程序主席， 2026。
+
+
 
 
   
