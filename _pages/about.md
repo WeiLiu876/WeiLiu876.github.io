@@ -85,9 +85,5 @@ Program co-chair of AAAI AIR-FM workshop, 2026.
 Great reviewer of ACL ARR December.
     
     
-<img 
-  src="https://www.clustrmaps.com/map_v2.png?d=rL71QO-aAGuIN0YNc9c-NFz4ChdB_9vxdJYfb3qmjnI&s=50" 
-  alt="Visitor Map"
-  width="200"
-  style="border:none; margin:0; padding:0;">
 
+<a href="https://clustrmaps.com/site/1c89y" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=GbeRkUaa1BgogUCGorQ2dSq_oHkKdq8nu9SvmgnN9dw&cl=ffffff"></a>
