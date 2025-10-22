@@ -92,9 +92,4 @@ AAAI AIR-FM workshop共同程序主席， 2026。
   
     
     
-<img 
-  src="//www.clustrmaps.com/map_v2.png?d=GbeRkUaa1BgogUCGorQ2dSq_oHkKdq8nu9SvmgnN9dw&s=50" 
-  alt="Visitor Map"
-  width="200"
-  style="border:none; margin:0; padding:0;">
 
