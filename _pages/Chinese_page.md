@@ -7,8 +7,8 @@ excerpt: "My homepage in Chinese."
 
 CCF信息系统优博  
 ACM-武汉优博  
-华为天才少年计划
-挑战杯揭榜挂帅全国特等奖带队老师
+华为天才少年计划  
+挑战杯揭榜挂帅全国特等奖带队老师  
 联系：weiliumg@gmail.com
 
 教育及工作背景
