@@ -10,10 +10,7 @@ ACM-武汉优博
 华为天才少年计划  
 挑战杯揭榜挂帅全国特等奖带队老师  
 邮箱：weiliumg@gmail.com  
-欢迎添加微信与我闲聊：
-<p align="left">
-  <img src="../images/微信二维码.png" alt="微信二维码" width="200">
-</p>
+
 
 教育及工作背景
 ====
