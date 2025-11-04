@@ -27,6 +27,14 @@ ACM-武汉优博
 我最近的研究集中关注于大语言模型的各种问题，主要关注于模型可靠性，模型编辑，模型高效微调等。欢迎联系我合作交流。
 
 
+Preprint
+====
+
+- Is Model Editing Built on Sand? Revealing Its Illusory Success and Fragile Foundation. [paper](https://arxiv.org/abs/2510.00625)  
+*__Wei Liu__, Haomei Xu, Bingqing Liu, Zhiying Deng, Haozhao Wang, Jun Wang, Ruixuan Li, Yee Whye Teh, Wee Sun Lee*  
+Preprint
+
+
 学术论文
 ======
 
