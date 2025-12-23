@@ -14,13 +14,6 @@
     {% endif %}
   </div>
 
-  <div class="author__wechat_qr">
-      {% if author.wechat_qr contains "://" %}
-      	<img src="{{ author.wechat_qr }}" alt="{{ author.name }}">
-      {% else %}
-      	<img src="{{ author.wechat_qr | prepend: "/images/" | prepend: base_path }}" class="author__wechat_qr" alt="{{ author.name }}">
-      {% endif %}
-  </div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
@@ -117,9 +110,6 @@
         <li><span style="font-weight:600;">WeChat</span><br><img src="/images/wechat_qr.png" alt="WeChat QR" style="max-width:140px; margin-top:6px;"></li>
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
-      {% endif %}
-      {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
