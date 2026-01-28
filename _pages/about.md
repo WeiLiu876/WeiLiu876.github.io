@@ -29,7 +29,7 @@ Research
 
 Preprint
 ====
-- Are We Evaluating the Edit Locality of LLM Model Editing Properly?
+- Are We Evaluating the Edit Locality of LLM Model Editing Properly?  
 *__Wei Liu__, Haomei Xu, Hongkai Liu, Zhiying Deng, Ruixuan Li, Heng Huang, Yee Whye Teh, Wee Sun Lee*  
 Preprint
 
