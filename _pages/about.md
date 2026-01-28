@@ -29,6 +29,9 @@ Research
 
 Preprint
 ====
+- Are We Evaluating the Edit Locality of LLM Model Editing Properly?
+*__Wei Liu__, Haomei Xu, Hongkai Liu, Zhiying Deng, Ruixuan Li, Heng Huang, Yee Whye Teh, Wee Sun Lee*
+Preprint
 
 - Is Model Editing Built on Sand? Revealing Its Illusory Success and Fragile Foundation. [paper](https://arxiv.org/abs/2510.00625)  
 *__Wei Liu__, Haomei Xu, Bingqing Liu, Zhiying Deng, Haozhao Wang, Jun Wang, Ruixuan Li, Yee Whye Teh, Wee Sun Lee*  
