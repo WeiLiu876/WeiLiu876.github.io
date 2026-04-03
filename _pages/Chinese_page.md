@@ -38,7 +38,7 @@ Preprint
 学术论文
 ======
 
-- Time-Interval-Aware Disentangled Expert Modeling for Next-Basket Recommendation.
+- Time-Interval-Aware Disentangled Expert Modeling for Next-Basket Recommendation.  
 *Zhiying Deng, Yuan Fu, Usman Farooq, Ziwei Tian, **Wei Liu\***, Jianjun Li*  
 In SIGIR 2026.
 
