@@ -45,6 +45,10 @@ Publications
 *Zhiying Deng, Yuan Fu, Usman Farooq, Ziwei Tian, **Wei Liu\***, Jianjun Li*  
 In SIGIR 2026.
 
+- Behavior-Aware Global-Enhanced Neural Modeling for Sequential Set Recommendation.  
+*Zhiying Deng, **Wei Liu\***, Jianjun Li, Zhiqiang Guo, Qian Chen, Juan Zhao*  
+In TAI 2026.
+
 - Unbiased Interest Modeling in Sequential Basket Analysis: Addressing Repetition Bias with Multi-Factor Estimation.  
 *Zhiying Deng, Jianjun Li, **Wei Liu\***, Juan Zhao*  
 In TORS 2025. 
