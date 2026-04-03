@@ -41,11 +41,11 @@ Publications
 ====
 \* denotes correspondence.
 
-- Time-Interval-Aware Disentangled Expert Modeling for Next-Basket Recommendation.
+- Time-Interval-Aware Disentangled Expert Modeling for Next-Basket Recommendation.  
 *Zhiying Deng, Yuan Fu, Usman Farooq, Ziwei Tian, **Wei Liu\***, Jianjun Li*  
 In SIGIR 2026.
 
-- Behavior-Aware Global-Enhanced Neural Modeling for Sequential Set Recommendation.  
+- Behavior-Aware Global-Enhanced Neural Modeling for Sequential Set Recommendation.    
 *Zhiying Deng, **Wei Liu\***, Jianjun Li, Zhiqiang Guo, Qian Chen, Juan Zhao*  
 In TAI 2026.
 
