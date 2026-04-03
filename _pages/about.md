@@ -39,10 +39,14 @@ Preprint
 
 Publications
 ====
+\* denotes correspondence.
 
+- Time-Interval-Aware Disentangled Expert Modeling for Next-Basket Recommendation.
+*Zhiying Deng, Yuan Fu, Usman Farooq, Ziwei Tian, **Wei Liu\***, Jianjun Li*  
+In SIGIR 2026.
 
 - Unbiased Interest Modeling in Sequential Basket Analysis: Addressing Repetition Bias with Multi-Factor Estimation.  
-*Zhiying Deng, Jianjun Li, __Wei Liu__, Juan Zhao*  
+*Zhiying Deng, Jianjun Li, **Wei Liu\***, Juan Zhao*  
 In TORS 2025. 
 
 - Re-fed+: A better replay strategy for federated incremental learning.  
