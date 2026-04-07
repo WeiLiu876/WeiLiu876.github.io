@@ -38,8 +38,8 @@ Preprint
 学术论文
 ======
 
-- When Personalization Tricks Detectors: The Feature-Inversion Trap in Machine-Generated Text Detection
-*Lang Gao, Xuhui Li, Chenxi Wang, Mingzhe Li, **Wei Liu**, Zirui Song, Jinghui Zhang, Rui Yan, Preslav Nakov, Xiuying Chen*
+- When Personalization Tricks Detectors: The Feature-Inversion Trap in Machine-Generated Text Detection  
+*Lang Gao, Xuhui Li, Chenxi Wang, Mingzhe Li, **Wei Liu**, Zirui Song, Jinghui Zhang, Rui Yan, Preslav Nakov, Xiuying Chen*  
 In ACL 2026.
 
 
