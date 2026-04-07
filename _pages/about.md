@@ -41,6 +41,10 @@ Publications
 ====
 \* denotes correspondence.
 
+- When Personalization Tricks Detectors: The Feature-Inversion Trap in Machine-Generated Text Detection
+*Lang Gao, Xuhui Li, Chenxi Wang, Mingzhe Li, **Wei Liu**, Zirui Song, Jinghui Zhang, Rui Yan, Preslav Nakov, Xiuying Chen*
+In ACL 2026.
+
 - Time-Interval-Aware Disentangled Expert Modeling for Next-Basket Recommendation.  
 *Zhiying Deng, Yuan Fu, Usman Farooq, Ziwei Tian, **Wei Liu\***, Jianjun Li*  
 In SIGIR 2026.
