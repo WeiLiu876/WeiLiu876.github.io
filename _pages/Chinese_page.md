@@ -37,6 +37,9 @@ Preprint
 
 学术论文
 ======
+- Confounder Balance in Next Basket Prediction.  
+  *Zhiying Deng, Jianjun Li; **Wei Liu\***; Juan Zhao*  
+  In TCYB 2026. 
 
 - When Personalization Tricks Detectors: The Feature-Inversion Trap in Machine-Generated Text Detection  
 *Lang Gao, Xuhui Li, Chenxi Wang, Mingzhe Li, **Wei Liu**, Zirui Song, Jinghui Zhang, Rui Yan, Preslav Nakov, Xiuying Chen*  
