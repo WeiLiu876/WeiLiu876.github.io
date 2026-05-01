@@ -41,6 +41,14 @@ Publications
 ====
 \* denotes correspondence.
 
+- From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing. [paper](https://github.com/jugechengzi/FE/blob/main/2026ICML_edit_multilayer.pdf) [code](https://github.com/jugechengzi/FE)    
+*__Wei Liu__, Hongkai Liu, Zhiying Deng, Yee Whye Teh, Wee Sun Lee*    
+In ICML 2026
+
+- The Cylindrical Representation Hypothesis for Language Model Steering.  
+*Lang Gao, Jinghui Zhang, __Wei Liu__, Fengxian Ji, Chenxi Wang, Zirui Song, Akash Ghosh, Youssef Mohamed, Preslav Nakov, Xiuying Chen*    
+In ICML 2026
+
 - Confounder Balance in Next Basket Prediction.    
   *Zhiying Deng, Jianjun Li; **Wei Liu\***; Juan Zhao*    
   In TCYB 2026. 
