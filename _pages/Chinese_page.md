@@ -37,7 +37,7 @@ Preprint
 
 学术论文
 ======
-- From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing. [paper](https://github.com/jugechengzi/FE/blob/main/2026ICML_edit_multilayer.pdf) [code](https://github.com/jugechengzi/FE)    
+- From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing. [paper](https://arxiv.org/abs/2605.00358) [code](https://github.com/jugechengzi/FE)    
 *__Wei Liu__, Hongkai Liu, Zhiying Deng, Yee Whye Teh, Wee Sun Lee*    
 In ICML 2026
 
