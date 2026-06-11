@@ -15,6 +15,8 @@ Previously, I received my Ph.D. from Huazhong University of Science and Technolo
 
 Contact: weiliumg@gmail.com
 
+I’m looking for jobs at AI companies in industry.
+
 
 
 
