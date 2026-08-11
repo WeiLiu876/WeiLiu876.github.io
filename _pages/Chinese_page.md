@@ -38,6 +38,10 @@ ACM-武汉优博
 *__Wei Liu__, Hongkai Liu, Zhiying Deng, Yee Whye Teh, Wee Sun Lee*    
 In ICML 2026
 
+- Escaping Graphical Causal Priors: Multi-Generator Cooperation for Rationalization  
+  *__Wei Liu__, Zhiying Deng, Lang Gao, Yuankai Zhang, Haozhao Wang, Jun Wang, Rui Zhang, Heng Huang, Ruixuan Li*
+  In Artificial Intelligence (AIJ, **CCF A**)
+
 - The Cylindrical Representation Hypothesis for Language Model Steering.  
 *Lang Gao, Jinghui Zhang, __Wei Liu__, Fengxian Ji, Chenxi Wang, Zirui Song, Akash Ghosh, Youssef Mohamed, Preslav Nakov, Xiuying Chen*    
 In ICML 2026
