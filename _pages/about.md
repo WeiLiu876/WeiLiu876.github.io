@@ -118,7 +118,6 @@ Conference: [ICDE 2024](https://icde2024.github.io/).
 
 Service
 ====
-Area Chair of ICLR 2027  
 Program co-chair of AAAI AIR-FM workshop, 2026.   
 Great reviewer of ACL ARR December.
 
