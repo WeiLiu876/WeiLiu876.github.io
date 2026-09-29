@@ -54,11 +54,6 @@ In NeurIPS 2026
 
 
 
-- Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing    
-  *Dongyao Chen, Jiayun Lei, Zhiying Deng, __Wei Liu\*__, Zhiyuan Ji, Xiaobo sun*  
-  In NeurIPS 2026
-
-
 
 
 
