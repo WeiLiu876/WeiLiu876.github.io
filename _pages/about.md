@@ -40,6 +40,28 @@ Publications
 ====
 \* denotes correspondence.
 
+- Editing Large Language Models with Geometry-Aware Regularization    
+*Bingqing Liu, __Wei Liu\*__, Jun Wang, Xiaobo sun, Yuhua Li, Ruixuan Li*    
+In NeurIPS 2026.
+
+- Rethinking Sequential Locate-Then-Edit: Optimality and Stability  
+  *Bingqing Liu, Zhiying Deng, __Wei Liu\*__, Jun Wang, Yuhua Li, Ruixuan Li*  
+In NeurIPS 2026
+
+- NORMA: Norm-Guided Explanation Subgraph Discovery    
+*Xiangyu Fu, __Wei Liu\*__, Jun Wang, Yang Qiu, Yuhua Li, Ruixuan Li*    
+In NeurIPS 2026
+
+
+
+- Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing    
+  *Dongyao Chen, Jiayun Lei, Zhiying Deng, __Wei Liu\*__, Zhiyuan Ji, Xiaobo sun*  
+  In NeurIPS 2026
+
+
+
+
+
 
 - From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing. [paper](https://arxiv.org/abs/2605.00358) [code](https://github.com/jugechengzi/FE)    
 *__Wei Liu__, Hongkai Liu, Zhiying Deng, Yee Whye Teh, Wee Sun Lee*    
