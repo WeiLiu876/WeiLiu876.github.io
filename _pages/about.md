@@ -10,12 +10,12 @@ redirect_from:
 
 About me
 ====
-I am currently a research fellow at National University of Singapore, co-advised by Prof. [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) and Prof. [Wee Sun Lee](https://www.comp.nus.edu.sg/~leews/).   
-Previously, I received my Ph.D. from Huazhong University of Science and Technology in 2024 (advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and my B.S. from HUST in 2019.
+I am currently a postdoctoral researcher at the National University of Singapore, working with Prof. [Wee Sun Lee](https://www.comp.nus.edu.sg/~leews/) and Prof. [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) on AI reliability.
+Previously, I received my Ph.D. from Huazhong University of Science and Technology (HUST) in 2024 (advisor: Prof. [Ruixuan Li](http://idc.hust.edu.cn/rxli/index.html)) and my B.S. from HUST in 2019.
 
 Contact: weiliumg@gmail.com
 
-I’m looking for jobs at AI companies in industry.
+I’m currently looking for opportunities at industry AI labs.
 
 
 
@@ -23,8 +23,7 @@ I’m looking for jobs at AI companies in industry.
 Research
 ====
 
-
-- My recent research has been concentrating on various issues related to large language models. I am always looking for partners, please feel free to contact me.
+My research focuses on making AI systems reliable throughout the lifecycle of their knowledge. In particular, I work on three closely related directions: diagnosing model failures through interpretability and causal analysis; correcting outdated or harmful knowledge through model editing; and preserving important capabilities during continual updates through efficient replay and model merging. More broadly, my goal is to develop AI systems that are debuggable, patchable, and upgradable.
 
 
 
