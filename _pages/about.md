@@ -39,12 +39,16 @@ Publications
 ====
 \* denotes correspondence.
 
+- Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing
+*Dongyao Chen, Jiayun Lei, Zhiyuan Ji, Zhiying Deng, Wei Liu, Xiaobo sun*
+In NeurIPS 2026
+
 - Editing Large Language Models with Geometry-Aware Regularization    
-*Bingqing Liu, __Wei Liu\*__, Jun Wang, Xiaobo sun, Yuhua Li, Ruixuan Li*    
+*Bingqing Liu, __Wei Liu__, Jun Wang, Xiaobo sun, Yuhua Li, Ruixuan Li*    
 In NeurIPS 2026.
 
 - Rethinking Sequential Locate-Then-Edit: Optimality and Stability  
-  *Bingqing Liu, Zhiying Deng, __Wei Liu\*__, Jun Wang, Yuhua Li, Ruixuan Li*  
+  *Bingqing Liu, __Wei Liu\*__, Zhiying Deng, Jun Wang, Yuhua Li, Ruixuan Li*  
 In NeurIPS 2026
 
 - NORMA: Norm-Guided Explanation Subgraph Discovery    
