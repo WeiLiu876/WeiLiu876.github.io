@@ -39,8 +39,8 @@ Publications
 ====
 \* denotes correspondence.
 
-- Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing
-*Dongyao Chen, Jiayun Lei, Zhiyuan Ji, Zhiying Deng, Wei Liu, Xiaobo sun*
+- Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing  
+*Dongyao Chen, Jiayun Lei, Zhiyuan Ji, Zhiying Deng, __Wei Liu\*__, Xiaobo sun*  
 In NeurIPS 2026
 
 - Editing Large Language Models with Geometry-Aware Regularization    
