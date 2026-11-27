@@ -58,13 +58,7 @@ In ICML 2026
 *Dongyao Chen, Jiayun Lei, Zhiyuan Ji, Zhiying Deng, __Wei Liu\*__, Xiaobo sun*  
 In NeurIPS 2026
 
-- Editing Large Language Models with Geometry-Aware Regularization    
-*Bingqing Liu, __Wei Liu__, Jun Wang, Xiaobo sun, Yuhua Li, Ruixuan Li*    
-In NeurIPS 2026.
 
-- Rethinking Sequential Locate-Then-Edit: Optimality and Stability  
-  *Bingqing Liu, __Wei Liu\*__, Zhiying Deng, Jun Wang, Yuhua Li, Ruixuan Li*  
-In NeurIPS 2026
 
 
 
