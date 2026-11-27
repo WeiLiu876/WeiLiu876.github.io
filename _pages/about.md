@@ -28,12 +28,6 @@ My research focuses on making AI systems reliable throughout the lifecycle of th
 
 
 
-Preprint
-====
-- Are We Evaluating the Edit Locality of LLM Model Editing Properly? [paper](https://www.arxiv.org/pdf/2601.17343) [code](https://github.com/jugechengzi/el)    
-*__Wei Liu__, Haomei Xu, Hongkai Liu, Zhiying Deng, Ruixuan Li, Heng Huang, Yee Whye Teh, Wee Sun Lee*  
-Preprint
-
 
 Publications
 ====
@@ -49,6 +43,10 @@ Publications
 
 
 **Mechanistic Interpretability/Model Editing**:
+
+- Are We Evaluating the Edit Locality of LLM Model Editing Properly? [paper](https://www.arxiv.org/pdf/2601.17343) [code](https://github.com/jugechengzi/el)    
+*__Wei Liu__, Haomei Xu, Hongkai Liu, Zhiying Deng, Ruixuan Li, Heng Huang, Yee Whye Teh, Wee Sun Lee*  
+Preprint
 
 - From Backward Spreading to Forward Replay: Revisiting Target Construction in LLM Parameter Editing. [paper](https://arxiv.org/abs/2605.00358) [code](https://github.com/jugechengzi/FE)    
 *__Wei Liu__, Hongkai Liu, Zhiying Deng, Yee Whye Teh, Wee Sun Lee*    
