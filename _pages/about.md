@@ -42,7 +42,7 @@ Publications
 
 
 
-**Mechanistic Interpretability/Model Editing**:
+**Mechanistic Interpretability/Knowledge Editing**:
 
 - Are We Evaluating the Edit Locality of LLM Model Editing Properly? [paper](https://www.arxiv.org/pdf/2601.17343) [code](https://github.com/jugechengzi/el)    
 *__Wei Liu__, Haomei Xu, Hongkai Liu, Zhiying Deng, Ruixuan Li, Heng Huang, Yee Whye Teh, Wee Sun Lee*  
@@ -71,6 +71,11 @@ In ICML 2026
 - When Personalization Tricks Detectors: The Feature-Inversion Trap in Machine-Generated Text Detection  
 *Lang Gao, Xuhui Li, Chenxi Wang, Mingzhe Li, **Wei Liu**, Zirui Song, Jinghui Zhang, Rui Yan, Preslav Nakov, Xiuying Chen*  
 In ACL 2026.
+
+**Interpretability for Efficiency**:
+- RLSelector: Downstream-aligned discrete visual token selection for efficient large vision-language models.  
+*Haomei Xu, Jinhe Bi, __Wei Liu\*__, Yixiong Zou, Zhiying Deng, Debin Liu, Ruixuan Li*  
+In Knowledge Based Systems 2026. 
 
 
 **Interpretability for Safety**:
